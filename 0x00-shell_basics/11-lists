@@ -1,7 +1,4 @@
 #!/bin/bash
-ls -al ./
-ls -al ./..
-ls -al /boot
-ls .
-ls ..
-ls /boot
+ls -al ./  ./.. /boot
+
+
